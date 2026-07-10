@@ -1,89 +1,42 @@
-# GerLab  
-## FabLab Mongolia · Documentation & Maker Culture
+# GerLab Project Guides
 
-GerLab is a FabLab and creative fabrication space in Mongolia where digital fabrication, engineering, science, design, and maker culture come together.
+This section collects small, practical project guides created by GerLab members and collaborators.
 
-This repository documents GerLab’s machines, safety rules, tutorials, materials, projects, events, and community progress. It is made for students, researchers, artists, engineers, and makers who want to learn safely, build confidently, and share knowledge with others.
+Instead of writing one large guidebook, we start with individual project pages. Each guide should be small, clear, useful, and easy for others to improve.
 
-GerLab is not only a room with machines.  
-It is a place where ideas become physical objects, mistakes become lessons, and people build together.
+## What can be documented?
 
----
+- Beginner fabrication projects
+- Science education projects
+- Arduino or electronics projects
+- 3D printing projects
+- Laser cutting projects
+- CNC or design projects
+- Mongolian culture-inspired maker projects
+- Workshop activities and learning materials
 
-## What We Document
+## Project Guide Format
 
-GerLab documentation is organized around the main parts of the workshop and community:
+Each guide should include:
 
-### Safety
+1. Project goal
+2. Required tools and materials
+3. Safety notes
+4. Step-by-step process
+5. Photos or diagrams
+6. Problems and fixes
+7. Source files
+8. References or credits
 
-Workshop rules, PPE, emergency procedures, machine safety, and safe behavior inside GerLab.
+## Contribution Method
 
-### Machines
+Collaborators can help by:
 
-Guides for using GerLab machines, including basic operation, risks, approved materials, maintenance notes, and troubleshooting.
+- Creating new project guides
+- Improving existing guides
+- Adding photos or diagrams
+- Translating content
+- Checking safety information
+- Adding references and citations
 
-### Tutorials
-
-Beginner-friendly guides for 3D printing, laser cutting, CNC, vinyl cutting, file preparation, design workflow, and project documentation.
-
-### Materials
-
-Information about usable materials, prohibited materials, recommended settings, and material behavior during fabrication.
-
-### Projects
-
-Student projects, community builds, prototypes, experiments, and Mongolian culture-inspired works.
-
-### Events
-
-Documentation from workshops, exhibitions, SciCon activities, training sessions, and GerLab community events.
-
-### Culture
-
-GerLab connects modern fabrication tools with Mongolian creativity, traditional patterns, local needs, nomadic design thinking, and community learning.
-
----
-
-## GerLab Mission
-
-To build a safe, creative, and collaborative maker environment where Mongolian students, engineers, artists, researchers, and makers can design, fabricate, test, improve, and share their ideas.
-
----
-
-## Core Values
-
-- Safety first
-- Learn by making
-- Respect tools and people
-- Share knowledge
-- Document progress
-- Build with Mongolian identity
-- Help the next maker
-
----
-
-## Current Goals
-
-GerLab documentation is currently being organized.
-
-Our first goals are:
-
-- Prepare clear safety documentation
-- Document GerLab machines
-- Create beginner tutorials
-- Organize material information
-- Record student and community projects
-- Build a public documentation website
-- Show GerLab’s maker culture and Mongolian identity
-
----
-
-## Start Here
-
-New users should begin with:
-
-1. Safety rules
-2. Machine guides
-3. Beginner tutorials
-4. Material information
-5. Project documentation
+GerLab starts small, documents clearly, and improves step by step.
